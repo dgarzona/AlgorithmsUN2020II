@@ -6,7 +6,7 @@ INTEGRANTES
 
 Ivonne Nathalia Uribe Lara
 
-David Antonio Garzón Avendano
+David Antonio Garzon Avendano
 
 Juan Carlos Sanchez Orjuela
 
