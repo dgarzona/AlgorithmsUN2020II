@@ -6,7 +6,9 @@ INTEGRANTES
 
 Ivonne Nathalia Uribe Lara
 
-David Garzon
+David Antonio Garzón Avendano
+
+Juan Carlos Sanchez Orjuela
 
 SymPy’s documentation
 
